@@ -5,6 +5,8 @@
 
 ---------
 
+My First Vue Storefront. Adding and overriding some features. 
+
 # #TechForUkraine
 <div align="center">
 <p>
